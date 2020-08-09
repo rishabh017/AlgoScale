@@ -19,7 +19,10 @@ from django.urls import path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+<<<<<<< HEAD
     print("sdas")
+=======
+>>>>>>> 11d4b47e4502b6707beb9622e7323a270f5107f7
 #    path('signup',signup_view,name='sign-up'),
 
 ]
