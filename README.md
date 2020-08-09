@@ -1,0 +1,2 @@
+# AlgoScale
+AlgoScale task
